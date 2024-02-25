@@ -1,0 +1,239 @@
+
+h1 {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: chartreuse;
+    color: darkred;
+    text-align: center;
+}
+
+img {
+    width: 20%;
+}
+
+#navegacion {
+    background-color: aqua;
+    color: blue;
+    text-align: center;
+    border: 1px solid black;
+}
+
+body {
+    background-color: #dff9fb;
+}
+
+.agrupar{
+    width: 1100px;
+    margin: auto;
+}
+
+.centrarimagen{
+    text-align: center;
+}
+
+/*PAQUETES*/
+#modal::backdrop{
+    background-color: rgba(0, 0, 0,.55);
+}
+
+
+.circulo1 {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    left: 110px;
+    top: 165px;
+    border-style: inset;
+    border-color: #b33939;
+}
+#graduaciones{
+    position:absolute;
+    left: 160px;
+    top: 370px;
+    color: blanchedalmond;
+    background-color: #b33939;
+}
+
+
+
+.circulo2 {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    left: 500px;
+    top: 165px;
+    border-style: inset;
+    border-color: #b33939;
+}
+#xv{
+    position:absolute;
+    left: 570px;
+    top: 370px;
+    color: blanchedalmond;
+    background-color: #b33939;
+}
+.circulo3 {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    left: 900px;
+    top: 165px;
+    border-style: inset;
+    border-color: #b33939;
+}
+#cena{
+    position:absolute;
+    left: 950px;
+    top: 370px;
+    color: blanchedalmond;
+    background-color: #b33939;
+}
+.circulo4 {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    left: 300px;
+    top: 400px;
+    border-style: inset;
+    border-color: #b33939;
+}
+#kit{
+    position:absolute;
+    left: 340px;
+    top: 600px;
+    color: blanchedalmond;
+    background-color: #b33939;
+}
+.circulo5 {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    left: 710px;
+    top: 400px;
+    border-style: inset;
+    border-color: #b33939;
+}
+#bodas{
+    position:absolute;
+    left: 780px;
+    top: 600px;
+    color: blanchedalmond;
+    background-color: #b33939;
+}
+
+
+
+/*CONTACTANOS*/
+#apellido{
+    position:absolute;
+    left: 500px;
+    top: 170px;
+}
+#telefono{
+    position:absolute;
+    left: 900px;
+    top: 170px;
+}
+#evento{
+    position:absolute;
+    left: 500px;
+    top: 280px;
+}
+#paquete{
+    position:absolute;
+    left: 900px;
+    top: 280px;
+}
+#mensaje{
+    position:absolute;
+    left: 500px;
+    top: 380px;
+}
+#Apellido{
+    position:absolute;
+    left: 500px;
+    top: 220px;
+}
+#Telefono{
+    position:absolute;
+    left: 900px;
+    top: 220px;
+}
+#Evento{
+    position:absolute;
+    left: 500px;
+    top: 330px;
+}
+#Paquete{
+    position:absolute;
+    left: 900px;
+    top: 330px;
+}
+#Mensaje{
+    position:absolute;
+    left: 500px;
+    top: 430px;
+}
+#Reservar{
+    position:absolute;
+    left: 650px;
+    top: 500px;
+    color: blanchedalmond;
+    background-color: #0e62d1;
+}
+
+
+/* NUESTROS CLIENTES*/
+
+#img1{
+    border-radius: 15%;
+    width: 30%;
+    margin-right: 100px;
+    border-style: inset;
+    border-color: #0e62d1;
+}
+#img2{
+    border-radius: 15%;
+    width: 30%;
+    border-style: inset;
+    border-color: #0e62d1;
+}
+#img3{
+    border-radius: 15%;
+    width: 30%;
+    margin-right: 100px;
+    border-style: inset;
+    border-color: #0e62d1;
+}
+#img4{
+    border-radius: 15%;
+    width: 30%;
+    border-style: inset;
+    border-color: #0e62d1;
+}
+#img5{
+    border-radius: 15%;
+    width: 30%;
+    margin-right: 100px;
+    border-style: inset;
+    border-color: #0e62d1;
+}
+#img6{
+    border-radius: 15%;
+    width: 30%;
+    border-style: inset;
+    border-color: #0e62d1;
+}

@@ -1,0 +1,206 @@
+body{
+    background-color:blanchedalmond;
+}
+
+
+/* sección Fiesta Eventos de la página index---------------------------------------------------------------------*/
+a{
+    color: blue;
+}
+
+.set-h1-fiesta-eventos{
+    text-align: center;
+    color: orange;
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.set-header-fiesta-eventos {
+    text-align: center;
+    margin-top: -30px;
+}
+
+.set-imagen-fiesta-eventos{
+    position: relative;
+    transform: translateX(-50%);
+    border-radius: 10px; 
+    width: 1000px;
+    height: 750px;
+    left: 50%;
+    margin-top: 20px;
+    border-style: inset;
+    
+}
+
+
+
+/* sección quienes somos de la página index-----------------------------------------------------------------*/
+.set-h2-quienes-somos{
+    text-align: center;
+    color: orange;
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 150px;
+}
+.set-header-quienes-somos{
+    text-align: center;
+}
+
+.set-contenedor-botones-quienes-somos{
+    background-color: ghostwhite;
+    padding: 15px;
+    position: relative;
+    display: flex;
+    justify-content: left;
+    border-radius: 0%;
+   
+}
+
+.set-btn1-quienes-somos{
+    background-color: gold;
+    padding: 10px;
+    border-radius: 20%;
+    margin-left: 500px;
+
+}
+
+.set-btn2-quienes-somos{
+    background-color: gold;
+    padding: 10px;
+    border-radius: 20%;
+    margin-left: 870px;
+}
+
+.set-contenedor-imagen-quienes-somos{
+    background-color: gold;
+    padding: 0%;
+    position: relative;
+    border-radius: 0%;
+    display: flex;
+    justify-content: center;
+}
+
+.set-imagen1-quienes-somos{
+    background-color: violet;
+    padding: 5px;
+    position: relative;
+    border-radius: 15%;
+    width: 20%;
+    margin-left: 200px;
+    border-style: inset;
+}
+
+.set-imagen2-quienes-somos{
+    background-color: yellowgreen;
+    padding: 5px;
+    background-color: violet;
+    border-radius: 15%;
+    width: 20%;
+    margin-left: 600px;
+    border-style: inset;
+}
+
+/*seccion que ofrecemos de la página index------------------------------------------------------------------*/
+.set-h2-que-ofrecemos{
+    text-align: center;
+    color: orange;
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 150px;
+}
+
+.set-header-que-ofrecemos{
+    text-align: center;
+}
+
+.set-contenedor-imagen-que-ofrecemos{
+    background-color: ghostwhite;
+    justify-content: center;
+}
+
+.set-imagen1-que-ofrecemos{
+   border-radius: 15%;
+   width: 10%;
+   border-style: inset;
+}
+
+.set-imagen2-que-ofrecemos{
+    border-radius: 15%;
+    width: 20%;
+    border-style: inset;
+   
+}
+
+.set-imagen3-que-ofrecemos{
+    border-radius: 15%;
+    width: 20%;
+    border-style: inset;
+   
+}
+
+.set-imagen4-que-ofrecemos{
+    border-radius: 15%;
+    width: 20%;
+    margin-right: 500px;
+    border-style: inset;
+   
+}
+
+/*seccion galería de fotos de la página index----------------------------------------------------------------*/
+
+.set-header-galeria-de-fotos{
+    text-align: center;
+}
+
+.set-h2-galeria-de-fotos{
+    text-align: center;
+    color: orange;
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 150px;
+}
+
+.set-contenedor-imagen-galeria-de-fotos{
+    background-color: aqua;
+}
+
+.set-imagen1-galeria-de-fotos{
+    border-radius: 10%;
+    border-style: inset;
+}
+
+.set-imagen2-galeria-de-fotos{
+    border-radius: 10%;
+    border-style: inset;
+}
+
+.set-imagen3-galeria-de-fotos{
+    border-radius: 10%;
+    border-style: inset;
+}
+
+.set-imagen4-galeria-de-fotos{
+    border-radius: 10%;
+    border-style: inset;
+}
+
+.set-imagen5-galeria-de-fotos{
+    border-radius: 10%;
+    border-style: inset;
+}
+
+.set-imagen6-galeria-de-fotos{
+    border-radius: 10%;
+    border-style: inset;
+}
+
+.set-imagen7-galeria-de-fotos{
+    border-radius: 10%;
+    border-style: inset;
+}
+
+
+
+
+
+
+
